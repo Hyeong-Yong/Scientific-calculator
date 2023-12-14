@@ -1,0 +1,66 @@
+[33mcommit d7f6bc99f47923c1396b1c97aae7a4d51f99819b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: 황형용 <hwanghyeongyoung@gmail.com>
+Date:   Thu Dec 14 21:55:27 2023 +0900
+
+    add programming/dac.ipynb
+
+[33mcommit bc5ab5dd66db5664e68cfbce81aba98bb8c04a84[m
+Author: 황형용 <hwanghyeongyoung@gmail.com>
+Date:   Tue Jun 27 15:18:48 2023 +0900
+
+    add dBm to watts
+
+[33mcommit 85c35788771a93c0df7bd618ff53f83cf313256f[m
+Author: 황형용 <hwanghyeongyoung@gmail.com>
+Date:   Fri Jun 23 15:10:51 2023 +0900
+
+    add terahertz frequency conversion
+
+[33mcommit af38ebd4cb5e5e9f87d2c9c468c427d7be1379e9[m[33m ([m[1;31mScientific-calculator/master[m[33m)[m
+Author: unknown <Hyeongyong Hwang>
+Date:   Tue May 30 10:05:38 2023 +0900
+
+    rearranged
+
+[33mcommit 914c78448a178a2159f66bf15f5eca880530f94f[m
+Author: Hyeongyong Hwang <hwanghyeongyong@gmail.com>
+Date:   Mon May 29 19:23:48 2023 +0900
+
+    add resonant_galvanometer mirror
+
+[33mcommit 2a67e0c1a73fe1feaf43d42c0b977574c15dcb08[m
+Merge: 8e663f6 2ae2e41
+Author: Hyeongyong Hwang <hwanghyeongyong@gmail.com>
+Date:   Mon May 29 19:23:26 2023 +0900
+
+    add resonant_galvanometer mirror
+
+[33mcommit 8e663f6981a58e36b9c8bd9fbf8e9e7863303025[m
+Author: Hyeongyong Hwang <hwanghyeongyong@gmail.com>
+Date:   Mon May 29 17:12:49 2023 +0900
+
+    add sampling time
+
+[33mcommit 2ae2e411f61743052ef40d509e15613043257daf[m
+Author: unknown <Hyeongyong Hwang>
+Date:   Mon May 29 15:00:28 2023 +0900
+
+    add sampling"
+
+[33mcommit 638e8dd1d7d257d93b0b26119b0a7d960af0d372[m
+Author: unknown <Hyeongyong Hwang>
+Date:   Mon May 22 18:05:11 2023 +0900
+
+    add wavelength-frequency
+
+[33mcommit d5e30515f312356ee091e49c06d8881ee88dfdcd[m
+Author: Hyeongyong Hwang <hwanghyeongyong@gmail.com>
+Date:   Thu May 18 19:23:16 2023 +0900
+
+    updated interference folder
+
+[33mcommit 01b86617d4d67f445f6e7e0c9388dd13df766c87[m
+Author: Hyeongyong Hwang <hwanghyeongyong@gmail.com>
+Date:   Thu May 18 18:55:24 2023 +0900
+
+    add equivalent wavelength
